@@ -1,4 +1,3 @@
-    
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
     <items_info>
@@ -12,7 +11,7 @@
 
 <item>  
 <title>[COLOR aqua]Addon Alejandria[/COLOR]</title> 
-<link><sublink></sublink></link>
+<urlsolve></urlsolve>
 <thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
 <fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
 </item>
@@ -20,7 +19,7 @@
 <item>  
 <title>Serie1</title> 
 <info></info>
-<link><sublink>https://www.youtube.com/watch?v=F2AitTPI5U0</sublink></link>
+<urlsolve>https://www.youtube.com/watch?v=F2AitTPI5U0</urlsolve>
 <externallink></externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
